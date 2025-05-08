@@ -4,7 +4,7 @@
     "name": "Hemlane",
     "slug": "hemlane",
     "description": "Full-service property management automation for small landlords.",
-    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/v1746717661/hemlane-ai.png",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/hemlane-ai.png",
     "target_audience_match": "Ideal for landlords juggling a few units who need full automation without hiring a manager.",
     "data-link": "pending"
   },
@@ -13,7 +13,7 @@
     "name": "DoorLoop",
     "slug": "doorloop",
     "description": "Modern, user-friendly platform with built-in AI for landlord workflows.",
-    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/v1746717663/doorloop-ai.png",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/doorloop-ai.png",
     "target_audience_match": "Perfect for part-time landlords who want a sleek, intuitive tool that works out of the box.",
     "data-link": "pending"
   },
@@ -22,7 +22,7 @@
     "name": "RentRedi + Latchel",
     "slug": "rentredi-latchel",
     "description": "Bundle of rent management and AI-powered maintenance support.",
-    "image": "https://epicairise.github.io/ai-assistants-landlords-under-50-units/media/rentredi-latchel.jpg",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/rentredi-latchel.jpg",
     "target_audience_match": "Best for DIY landlords who want maintenance off their plate without hiring full-time help.",
     "data-link": "pending"
   },
@@ -31,7 +31,7 @@
     "name": "TurboTenant",
     "slug": "turbotenant",
     "description": "A free, lightweight solution with smart features for scaling landlords.",
-    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/v1746717667/turbotenant-ai.png.jpg",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/turbotenant-ai.png.jpg",
     "target_audience_match": "Great for budget-conscious landlords needing automation without the software bloat.",
     "data-link": "pending"
   },
@@ -40,7 +40,7 @@
     "name": "Innago",
     "slug": "innago",
     "description": "Simple, free platform that uses smart automation to manage rent and leases.",
-    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/v1746717670/innago-ai.png",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/innago-ai.png",
     "target_audience_match": "For small landlords who want essential features without a steep learning curve.",
     "data-link": "pending"
   }
